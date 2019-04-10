@@ -3,6 +3,7 @@ package mybatis;
 import java.util.Date;
 
 public class User {
+	//用户id
 	private Integer id;
 	private String username;
 	private String sex;
